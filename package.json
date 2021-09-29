@@ -1,0 +1,23 @@
+{
+  "name": "bigfoottrackerweb",
+  "version": "1.0.0",
+  "description": "This is a web app for tracking cryptids like Bigfoot, Skunk Ape, Mothman, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elchuko/bigFootTrackerWeb.git"
+  },
+  "keywords": [
+    "Bigfoot"
+  ],
+  "author": "ElChuko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elchuko/bigFootTrackerWeb/issues"
+  },
+  "homepage": "https://github.com/elchuko/bigFootTrackerWeb#readme",
+  "dependencies": {}
+}
