@@ -19,5 +19,8 @@
     "url": "https://github.com/elchuko/bigFootTrackerWeb/issues"
   },
   "homepage": "https://github.com/elchuko/bigFootTrackerWeb#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.12.5",
+    "dotenv": "^10.0.0"
+  }
 }
